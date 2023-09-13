@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Prio</string>
+    <string name="head_One">My Rankings:</string>
+    <string name="head_delete">delete:</string>
+    <string name="name_TooLong">Name has too many characters!</string>
+    <string name="invalid_input">Invalid input…</string>
+    <string name="add_prio">Create new Prio</string>
+    <string name="rename">rename</string>
+    <string name="myPrios">My Prios</string>
+    <string name="accept">accept</string>
+    <string name="new_name">new name</string>
+    <string name="name">name</string>
+    <string name="create">create</string>
+    <string name="create_new_prio">Create\na new\nPrio:</string>
+    <string name="reset">reset element</string>
+    <string name="compare">prioritise</string>
+    <string name="clear_ranking">reset\nPrio</string>
+    <string name="add">add</string>
+    <string name="clear">All comparisons have been forgotten!</string>
+    <string name="new_element">New element</string>
+    <string name="tests_completed">All tests are completed!</string>
+    <string name="element_cleared">Comparisons of the element are reset!</string>
+    <string name="compare_completed">Comparison completed!</string>
+    <string name="step_back_impossible">Step back is not possible!</string>
+    <string name="has_been_deleted"> has been deleted…</string>
+    <string name="wurde_zu"> has been renamed </string>
+    <string name="umbenannt"> </string>
+    <string name="hinzugefügt"> has been added to the Prio!</string>
+    <string name="app_id">ca-app-pub-8498756977378374~3723657477</string>
+    <string name="comp_erklärung">Prioritise the elements of your Prio through simply structured either-or questions!</string>
+    <string name="oder">or</string>
+    <string name="copy_prio">copy Prio</string>
+    <string name="prio_copied">was saved in the clipboard of your device.</string>
+    <string name="prio_not_finished">(ATTENTION: Prio not yet fully prioritised!)</string>
+
+
+</resources>

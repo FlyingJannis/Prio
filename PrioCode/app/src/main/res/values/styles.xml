@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/AddButton</item>
+        <item name="colorPrimaryDark">@color/AddButton</item>
+        <item name="colorAccent">@color/RenameButton</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/CompareButton</item>
+        <item name="colorPrimaryDark">@color/CompareButton</item>
+        <item name="colorAccent">@color/ResRenButtons</item>
+    </style>
+
+</resources>

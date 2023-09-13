@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prio</string>
+    <string name="head_One">Meine Rankings:</string>
+    <string name="head_delete">Löschen:</string>
+    <string name="name_TooLong">Name hat zu viele Zeichen!</string>
+    <string name="invalid_input">Ungültige Eingabe…</string>
+    <string name="add_prio">Neue Prio erstellen</string>
+    <string name="rename">umbenennen</string>
+    <string name="myPrios">Meine Prios</string>
+    <string name="accept">bestätigen</string>
+    <string name="new_name">Neuer Name</string>
+    <string name="name">Name</string>
+    <string name="create">Erstellen</string>
+    <string name="create_new_prio">Neue\nPrio\nerstellen:</string>
+    <string name="reset">Element resetten</string>
+    <string name="compare">priorisieren</string>
+    <string name="clear_ranking">Prio\nresetten</string>
+    <string name="add">hinzufügen</string>
+    <string name="clear">Alle Vergleiche wurden vergessen!</string>
+    <string name="new_element">Neues Element</string>
+    <string name="tests_completed">Alle Test sind abgeschlossen!</string>
+    <string name="element_cleared">Vergleiche des Elements sind zurückgesetzt!</string>
+    <string name="compare_completed">Vergleich abgeschlossen!</string>
+    <string name="step_back_impossible">Schritt zurück ist nicht möglich!</string>
+    <string name="has_been_deleted"> wurde gelöscht…</string>
+    <string name="wurde_zu"> wurde zu </string>
+    <string name="umbenannt"> umbenannt!</string>
+    <string name="hinzugefügt"> wurde zur Prio hinzugefügt!</string>
+    <string name="app_id">ca-app-pub-8498756977378374~3723657477</string>
+    <string name="comp_erklärung">Priorisiere die Elemente deiner Prio durch einfach strukturierte Entweder-Oder-Fragen!</string>
+    <string name="oder">oder</string>
+    <string name="copy_prio">Prio kopieren</string>
+    <string name="prio_copied">wurde in der Zwischenablage Ihres Gerätes gespeichert.</string>
+    <string name="prio_not_finished">(ACHTUNG: Prio noch nicht vollständig priorisiert!)</string>
+</resources>
