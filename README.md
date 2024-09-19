@@ -1,5 +1,5 @@
 # Prio
-
+![til](demo.gif)
 
 
 An app to dynamically and intuitively prioritise lists (to-dos, rankings etc.)
